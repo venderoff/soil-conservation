@@ -6,7 +6,7 @@ First, run the development server:
 
 ### For Windows
 ```
-npm build
+npm run build
 npm start
 ```
 ```bash
