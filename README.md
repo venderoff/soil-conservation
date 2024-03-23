@@ -6,6 +6,7 @@ First, run the development server:
 
 ### For Windows
 ```
+npx create-next-app@latest
 npm run build
 npm start
 ```
