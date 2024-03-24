@@ -7,7 +7,7 @@ export default function MainHeader() {
        <header className={classes.header}>
           <Link className={classes.logo}href="/" >
           <img src={LogoImage.src} alt="soil conservation" style={{ width: '90%', height: '100 px' }} />
-          Soil Conservation
+          Plant and Soil E-portal
           </Link>
         <nav className={classes.nav}>
            <ul>
