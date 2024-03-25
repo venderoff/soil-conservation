@@ -12,6 +12,7 @@ export default function Home() {
       <p >
         <h3>Plant Identification</h3>
         Provide tools and resources for users to identify different plant species, including trees, shrubs, flowers, and crops. This could include interactive guides, image databases, and botanical information.
+        <Link href="/plantidentification">more</Link>
       </p>
       </div>
       <div className={classes.description}>
